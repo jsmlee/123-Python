@@ -1,0 +1,10 @@
+Goals:
+-object types(int,floats,boolean,tuples,lists)
+-if and then statements
+-for and while loops
+-dictionaries
+-functions
+-classes
+-files
+-libaries
+
