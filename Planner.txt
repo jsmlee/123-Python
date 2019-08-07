@@ -8,3 +8,8 @@ Goals:
 -files
 -libaries
 
+Game elements:
+-side scroller
+-8 bit
+-level based
+-
