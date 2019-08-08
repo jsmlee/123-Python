@@ -1,3 +1,18 @@
+import pygame
+
+pygame.init()
+pygame.display.set_caption('Python123')
+
+window = pygame.display.set_mode((1280, 640))
+bg = pygame.image.load('background.png')
+
+
+def redrawGameLoop():
+    global walkCount
+    window.blit(bg, (0, 0))
+    pygame.display.update()
+
+
 # MainLoop
 run = True
 while run:
